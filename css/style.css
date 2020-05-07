@@ -1,0 +1,47 @@
+.top {
+  background-color: #06bee1;
+  margin: 0;
+}
+h1 {
+  margin: 0;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top h1, .top h3 {
+  text-align: center;
+}
+
+
+
+.top-navbar {
+  text-align: left;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.navbar1 {
+  position: absolute;
+  right: 30px;
+  top: 5%;
+}
+
+#top-img {
+  left: 30px;
+  border-radius: 100%;
+  border: 3px solid white;
+  width: 50px;
+}
+
+.main {
+  padding-top: 15px;
+}
+
+.main > img {
+  border-radius: 100%;
+  border: 5px solid #03256c;
+  padding: 5px;
+}
